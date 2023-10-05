@@ -1,9 +1,9 @@
 package controller
 
 import (
+	"CRUD_bagus/helper"
+	"CRUD_bagus/model"
 	"fmt"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/helper"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/model"
 	"net/http"
 	"strconv"
 

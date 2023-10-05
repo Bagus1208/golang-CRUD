@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/configs"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/controller"
+	"CRUD_bagus/configs"
+	"CRUD_bagus/controller"
 
 	echojwt "github.com/labstack/echo-jwt/v4"
 	"github.com/labstack/echo/v4"

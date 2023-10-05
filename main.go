@@ -1,12 +1,12 @@
 package main
 
 import (
+	"CRUD_bagus/configs"
+	"CRUD_bagus/controller"
+	"CRUD_bagus/helper"
+	"CRUD_bagus/model"
+	"CRUD_bagus/routes"
 	"fmt"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/configs"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/controller"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/helper"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/model"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/routes"
 
 	"github.com/labstack/echo/v4"
 )

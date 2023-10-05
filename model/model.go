@@ -1,8 +1,8 @@
 package model
 
 import (
+	"CRUD_bagus/configs"
 	"fmt"
-	"go_bagus-ario-yudanto/18_Middleware/praktikum/configs"
 
 	"github.com/sirupsen/logrus"
 	"gorm.io/driver/mysql"
